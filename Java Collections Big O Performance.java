@@ -1,4 +1,4 @@
-Big O performance of common functions of different Java Collections. (Source: Java Generics and Collections, pages: 188, 211, 222, 240).
+Big O performance of common functions of different Java Collections. (Source: https://gist.github.com/psayre23/c30a821239f4818b0709).
 
 
 List                 | Add  | Remove | Get  | Contains | Next | Data Structure
