@@ -1,2 +1,2 @@
 # Cheat-Sheets
-Coding Cheat Sheets
+Coding Cheat Sheets.
