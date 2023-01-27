@@ -7,4 +7,4 @@ Coding Cheat Sheets collection from various sources:
 
 • Java Generics and Collections (Naftalin, 2007)
 
-• 
+• https://github.com/pyvec/cheatsheets
