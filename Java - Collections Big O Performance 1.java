@@ -1,4 +1,4 @@
-Big O performance of common functions of different Java Collections. (Source: https://gist.github.com/psayre23/c30a821239f4818b0709).
+Big O performance of common methods of different Java Collections. (Source: https://gist.github.com/psayre23/c30a821239f4818b0709).
 
 
 List                 | Add  | Remove | Get  | Contains | Next | Data Structure
